@@ -1,3 +1,9 @@
+# Why this fork?
+
+This fork uses the panzoom fork from Timo Weike: https://github.com/Timo-Weike/panzoom
+
+It adds a smoothShowRectangle function that is quite usefull and some other small improvements. :)
+
 # vue-panzoom
 
 This is a [Vue.js](https://vuejs.org/) port of [panzoom](https://github.com/anvaka/panzoom), an extensible, mobile friendly pan and zoom framework (supports DOM and SVG).
